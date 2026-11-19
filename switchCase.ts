@@ -1,0 +1,48 @@
+const day: number = 3;
+
+switch (day) {
+  case 1:
+    console.log("Monday");
+    break;
+  case 2:
+    console.log("Tuesday");
+    break;
+  case 3:
+    console.log("Wednesday");
+    break;
+  case 4:
+    console.log("Thursday");
+    break;
+  case 5:
+    console.log("Friday");
+    break;
+  case 6:
+    console.log("Saturday");
+    break;
+  case 7:
+    console.log("Sunday");
+    break;
+  default:
+    console.log("Invalid day");
+}
+
+const browsers: string = "Chrome";
+
+switch (browsers) {
+  case "Chrome":
+    console.log("Browser: Google Chrome");
+    break;
+  case "Firefox":
+    console.log("Browser: Mozilla Firefox");
+    break;
+  case "Safari":
+    console.log("Browser: Apple Safari");
+    break;
+  case "Edge":
+    console.log("Browser: Microsoft Edge");
+    break;
+  default:
+    console.log("Unknown browser");
+}
+
+
