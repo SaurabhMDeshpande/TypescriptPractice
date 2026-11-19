@@ -16,6 +16,13 @@ while (index <= 10) {
 	index++;
 
     // use for in and for of loop
+
+    // for loop
+    // iterations are fixed
+
+
+    // do while
+    // at list one time it executes
 }
 
 
